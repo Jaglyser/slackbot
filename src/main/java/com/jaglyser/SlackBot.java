@@ -1,9 +1,5 @@
 package com.jaglyser;
 
-/**
- * Hello world!
- *
- */
 import com.slack.api.bolt.App;
 import com.slack.api.bolt.jetty.SlackAppServer;
 
